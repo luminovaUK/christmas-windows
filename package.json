@@ -1,0 +1,1 @@
+{ "name":"the-christmas-windows", "version":"0.6.0", "private":true, "description":"A private Christmas window wish list", "scripts":{"start":"node server.js","check":"node --check server.js && node --check app.js && node --check wishes.js"}, "engines":{"node":">=20"} }
