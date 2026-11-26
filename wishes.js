@@ -44,5 +44,14 @@ window.CHRISTMAS_WISHES = [
     "url": "https://www.noyaskitchen.co.uk/cookingclasses",
     "story": "Noya’s Vietnamese cooking class, presented in a grand Christmas window inspired by the historic Hotel Continental Saigon and the atmosphere of Ho Chi Minh City.",
     "image": "noya"
+  },
+  {
+    "id": "snowbee",
+    "brand": "SNOWBEE",
+    "title": "Classic 2 Fly Reel",
+    "detail": "#3/4 · Fly reel",
+    "setting": "BRITISH COUNTRY SPORT · FLY FISHING",
+    "url": "https://www.snowbee.co.uk/snowbee-classic-2-34-fly-reel.html",
+    "story": "A traditional British fly-fishing Christmas window, with the Snowbee Classic 2 fly reel as the centrepiece."
   }
 ];
