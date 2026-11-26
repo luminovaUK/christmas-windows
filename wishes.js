@@ -27,13 +27,13 @@ window.CHRISTMAS_WISHES = [
     "story": "The sculptural Speyside distillery in the winter dusk, with the Double Cask 12 proudly displayed."
   },
   {
-    "id": "penfolds",
-    "brand": "PENFOLDS",
-    "title": "Bin 128 Coonawarra Shiraz",
-    "detail": "Coonawarra · South Australia",
-    "setting": "COONAWARRA · SOUTH AUSTRALIA",
-    "url": "https://www.penfolds.com/en-gb/wines/featured/bin-128-collection",
-    "story": "The Shiraz vineyards of Coonawarra in the warm glow of a South Australian evening."
+    "id": "snowbee-flies",
+    "brand": "SNOWBEE",
+    "title": "West Country River Flies",
+    "detail": "19 traditional river flies · £29.91",
+    "setting": "SOMERSET · RIVER FROME",
+    "url": "https://www.troutcatchers.co.uk/snowbee-nymphs-lures-dry-fly-selections-c102x2678858",
+    "story": "A traditional Christmas fly-fishing window inspired by the River Frome near Freshford. River Dries SF200, Mayflies SF201 and River Nymphs SF202."
   },
   {
     "id": "noya",
