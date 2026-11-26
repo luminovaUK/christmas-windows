@@ -53,5 +53,14 @@ window.CHRISTMAS_WISHES = [
     "setting": "BRITISH COUNTRY SPORT · FLY FISHING",
     "url": "https://www.snowbee.co.uk/snowbee-classic-2-34-fly-reel.html",
     "story": "A traditional British fly-fishing Christmas window, with the Snowbee Classic 2 fly reel as the centrepiece."
+  },
+  {
+    "id": "white-company",
+    "brand": "THE WHITE COMPANY",
+    "title": "Men’s Flannel Large Check Pyjama Bottoms",
+    "detail": "Charcoal Marl · Size L (Large) · £55",
+    "setting": "LONDON · CHRISTMAS COMFORT",
+    "url": "https://www.thewhitecompany.com/uk/Mens-Flannel-Large-Check-PyjamaBottoms/p/A19415?swatch=Charcoal%20Marl",
+    "story": "A cosy Christmas at home with Dotty, featuring charcoal marl flannel pyjama bottoms in size L."
   }
 ];
