@@ -1,6 +1,26 @@
 // Publishing policy: newest or substantially updated wishes first. Insert new wishes at the front; move substantially updated wishes to the front.
 window.CHRISTMAS_WISHES = [
   {
+    "id": "thomson-carter-perfume",
+    "brand": "THOMSON CARTER",
+    "title": "Smoke & Mirrors Eau de Parfum",
+    "detail": "50 ml · Sandalwood, musk & leather",
+    "setting": "LONDON · FINE FRAGRANCE",
+    "url": "https://www.thomsoncarter.com/products/smoke-mirrors-sandalwood-musk-leather?variant=43755214504096",
+    "story": "A festive London perfumery window featuring Smoke & Mirrors Eau de Parfum.",
+    "image": "Thomson Carter Smoke & Mirrors Display-2"
+  },
+  {
+    "id": "thomson-carter-body-wash",
+    "brand": "THOMSON CARTER",
+    "title": "Smoke & Mirrors Body Wash",
+    "detail": "450 ml · Sandalwood, musk & leather",
+    "setting": "LONDON · FESTIVE LUXURY",
+    "url": "https://www.thomsoncarter.com/products/smoke-mirrors-body-wash?variant=51733560688800",
+    "story": "A festive London perfumery window featuring Smoke & Mirrors Body Wash.",
+    "image": "Thomson Carter Smoke & Mirrors Display-1"
+  },
+  {
     "id": "white-company",
     "brand": "THE WHITE COMPANY",
     "title": "Men’s Flannel Large Check Pyjama Bottoms",
